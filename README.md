@@ -1,4 +1,5 @@
 #Lab1Web
+
 Identitas Mahasiswa
 Nama : Amelia Futri
 Nim: 312510348 Mata 
@@ -6,6 +7,7 @@ kuliah: Pemrograman Web
 Praktikum :1-Html Dasar 
 
 #Deskripsi Praktikum
+
 Pada praktikum pertama ini, saya mempelajari dasar-dasar HTML yang digunakan untuk membangun sebuah halaman website. HTML berfungsi untuk menyusun isi dan struktur dari halaman web agar dapat ditampilkan melalui browser.
 Dalam praktikum ini, saya mencoba membuat halaman web sederhana dengan menggunakan beberapa tag HTML. Materi yang dipraktikkan meliputi pembuatan struktur HTML, teks, gambar, link, serta daftar.
 
@@ -20,6 +22,7 @@ Struktur dokumen HTML
 7. Menambahkan komentar pada kode HTML
 
 #Tujuan Praktikum
+
 Praktikum ini dilakukan untuk memahami cara kerja dasar HTML dan mengetahui bagaimana sebuah halaman web disusun.
 
 Tujuan yang ingin dicapai dari praktikum ini yaitu:
@@ -31,6 +34,7 @@ Tujuan yang ingin dicapai dari praktikum ini yaitu:
 6. Membiasakan diri menulis dan menjalankan kode HTML menggunakan Visual Studio Code
 
 #Struktur Repository
+
 Lab1Web/
 │
 ├── index.html
@@ -41,6 +45,7 @@ Lab1Web/
 └── README.md
 
 #Berikut adalah langkah-langkah Praktikum
+
 Berikut adalah struktur dasar HTML yang digunakan untuk membuat halaman web sederhana. Kode tersebut terdiri dari beberapa tag utama seperti html, head, title, dan body. Pada bagian body terdapat teks “Isi dokumen” yang akan ditampilkan pada halaman web.
 
 Pada kode tersebut terdapat beberapa tag utama, yaitu:
@@ -53,6 +58,7 @@ Pada kode tersebut terdapat beberapa tag utama, yaitu:
   ![Struktur Dasar HTML](images/struktur-html.png)
 
 2. Membuat Heading Dan Paragraf
+   
 Berikut adalah contoh penggunaan paragraf dan heading pada HTML yang dibuat menggunakan Visual Studio Code. Pada kode tersebut terdapat dua paragraf menggunakan tag <p>, serta judul menggunakan tag <h1> dan <h2>.
 Penjelasan:
 <p> digunakan untuk membuat paragraf. Pada gambar terdapat dua paragraf yang berisi penjelasan mengenai pembelajaran HTML dan fungsi HTML dalam membuat struktur halaman web.
@@ -65,6 +71,7 @@ Penjelasan:
   ![Heading dan Paragraf](images/heading-paragraf.png)
 
 3. Formating Text
+
 Berikut adalah contoh formatting teks pada HTML yang digunakan untuk memberikan tampilan berbeda pada bagian tertentu dalam sebuah paragraf. Pada kode tersebut digunakan tag <b>, <i>, dan <strong>.
 <b> digunakan untuk membuat teks menjadi tebal, seperti pada teks “HTML dasar”.
 <i> digunakan untuk membuat teks menjadi miring, seperti pada teks “Pemrograman Web”.
@@ -76,6 +83,7 @@ Berikut adalah contoh formatting teks pada HTML yang digunakan untuk memberikan 
   ![Formatting Text](images/formatting-text.png)
 
 4. Menambahkan Gambar
+   
 Berikut adalah kode HTML yang digunakan untuk menambahkan gambar ke dalam halaman web. Pada kode tersebut digunakan tag <img> dengan beberapa atribut untuk mengatur gambar.
 
 <img> digunakan untuk menampilkan gambar pada halaman web.
@@ -88,6 +96,7 @@ Berikut adalah penerapan tag `img` untuk menampilkan gambar pada halaman web.
 ![Menambahkan Gambar](images/menambahkan-gambar.png)
 
 5. Membuat Hyperlink
+   
  Berikut adalah contoh penggunaan hyperlink pada HTML untuk menghubungkan halaman web dengan halaman lain.
 
 Hyperlink internal adalah link yang mengarah ke halaman lain yang masih berada dalam website atau folder yang sama. Pada gambar terdapat:
@@ -101,6 +110,7 @@ Berikut adalah penerapan hyperlink internal dan eksternal pada HTML.
 ![Hyperlink Internal dan Eksternal](images/hyperlink.png)
 
 6. Membuat List HTML
+   
 Berikut adalah contoh penggunaan list pada HTML untuk membuat daftar secara berurutan. Pada gambar digunakan tag <ol> (ordered list) dan <li> (list item).
 <ol> digunakan untuk membuat daftar yang memiliki urutan, biasanya ditampilkan menggunakan angka.
 <li> digunakan untuk membuat setiap item atau isi dari daftar.
@@ -113,6 +123,7 @@ Pada kode tersebut terdapat empat langkah, yaitu mempelajari struktur HTML, memp
 
 
 7. Membuat Komentar HTML
+   
  Berikut adalah contoh penggunaan komentar dan heading pada HTML. Pada gambar terdapat komentar <!-- judul utama --> dan <!-- subjudul --> yang digunakan untuk memberikan keterangan pada bagian kode. Komentar tidak akan ditampilkan pada halaman web.
 Selain itu, terdapat:
 <h1> digunakan untuk membuat judul utama, yaitu “Belajar Dasar HTML”.
